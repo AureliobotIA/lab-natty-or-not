@@ -21,19 +21,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Cidades Inteligentes e as energias sustentáveis
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Criação de Ebook com Inteligencia Artificial
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+O Ebook teve sua capa e seu conteúdo confecionados com Copilot, o conteúdo do Ebook foi elaborado no Word.
+Foi usada também a ferramenta de captura do Win10 e a plataforma Canva.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+O uso do Copilot na realização desse projeto foi excelente e de uma rapidez impressionante
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+https://www.canva.com/design/DAGYQ2qUOJw/2Gj9GpnmwEM4aJ0qLHTbZw/edit?utm_content=DAGYQ2qUOJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
