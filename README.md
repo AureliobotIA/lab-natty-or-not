@@ -32,10 +32,8 @@ Foi usada também a ferramenta de captura do Win10 e a plataforma Canva.
 O uso do Copilot na realização desse projeto foi excelente e de uma rapidez impressionante
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-## https://www.canva.com/design/DAGYQ2qUOJw/2Gj9GpnmwEM4aJ0qLHTbZw/edit?utm_content=DAGYQ2qUOJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGYQ2qUOJw/2Gj9GpnmwEM4aJ0qLHTbZw/edit?utm_content=DAGYQ2qUOJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 https://github.com/AureliobotIA/lab-natty-or-not/blob/main/exemplos/ebook%20IA%20Energias%20Sustentaveis.pdf
-[LINK PARA O E-BOOK AQUI](https://github.com/AureliobotIA/lab-natty-or-not/blob/main/exemplos/ebook%20IA%20Energias%20Sustentaveis.pdf)
-<a href="https://github.com/AureliobotIA/lab-natty-or-not/blob/main/exemplos/ebook%20IA%20Energias%20Sustentaveis.pdf">Ebook</a>
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
