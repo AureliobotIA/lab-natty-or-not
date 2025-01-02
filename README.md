@@ -33,8 +33,9 @@ O uso do Copilot na realização desse projeto foi excelente e de uma rapidez im
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 ## https://www.canva.com/design/DAGYQ2qUOJw/2Gj9GpnmwEM4aJ0qLHTbZw/edit?utm_content=DAGYQ2qUOJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-## https://github.com/AureliobotIA/lab-natty-or-not/tree/main/exemplos
-[LINK PARA O E-BOOK AQUI](https://github.com/AureliobotIA/lab-natty-or-not/tree/main/exemplos)
+
+[LINK PARA O E-BOOK AQUI]()
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
